@@ -18,6 +18,7 @@ AC_CHECK_HEADER(sys/socket.h, [],
                 [AC_MSG_ERROR(["Couldn't find sys/socket.h"])])
 
 
+
 # output files
 AC_CONFIG_FILES([Makefile
                  src/Makefile

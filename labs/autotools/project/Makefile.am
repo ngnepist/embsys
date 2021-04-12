@@ -8,3 +8,4 @@ maintainer-clean-local:
 	-rm -r m4
 
 SUBDIRS = src
+
